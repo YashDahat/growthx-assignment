@@ -1,4 +1,4 @@
-# ⚛️ React Project
+# ⚛️ Growthx Assignment
 
 This is a React-based project designed for modern web development. Follow the steps below to set up and run the application locally.
 
